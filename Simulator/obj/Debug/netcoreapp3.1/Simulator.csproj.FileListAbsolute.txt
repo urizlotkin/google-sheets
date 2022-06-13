@@ -1,0 +1,13 @@
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.exe
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.deps.json
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.runtimeconfig.json
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.runtimeconfig.dev.json
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.dll
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\bin\Debug\netcoreapp3.1\Simulator.pdb
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.csprojAssemblyReference.cache
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.AssemblyInfoInputs.cache
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.AssemblyInfo.cs
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.dll
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.pdb
+C:\Users\uri zlotkin\source\repos\Simulator\Simulator\obj\Debug\netcoreapp3.1\Simulator.genruntimeconfig.cache
